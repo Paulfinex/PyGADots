@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GA_pallini", "PythonApplication1\GA_pallini.pyproj", "{BE198431-7F33-4BA0-8005-C20C9F3FF4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE198431-7F33-4BA0-8005-C20C9F3FF4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE198431-7F33-4BA0-8005-C20C9F3FF4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC66AA93-1603-4726-8890-9C96B4A02420}
+	EndGlobalSection
+EndGlobal
